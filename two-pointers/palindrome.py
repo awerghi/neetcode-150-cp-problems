@@ -1,3 +1,7 @@
+# PROBLEM STATEMENT : https://neetcode.io/problems/is-palindrome?list=neetcode150
+# Author aw.ahmed.werghi@gmail.com
+
+
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         first_s_to_check = ""

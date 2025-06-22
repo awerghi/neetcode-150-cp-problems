@@ -1,4 +1,7 @@
 # Problem statement : https://neetcode.io/problems/valid-sudoku?list=neetcode150
+# Author aw.ahmed.werghi@gmail.com
+
+
 # Valid sudo problem
 
 from typing import List

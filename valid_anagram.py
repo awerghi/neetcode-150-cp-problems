@@ -1,3 +1,7 @@
+# PROBLEM STATEMENT : https://neetcode.io/problems/is-anagram?list=neetcode150
+# Author aw.ahmed.werghi@gmail.com
+
+
 
 # solution 1
 # sort both strings and compare

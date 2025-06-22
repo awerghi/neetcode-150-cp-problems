@@ -1,4 +1,5 @@
 # Problem statement : https://neetcode.io/problems/duplicate-integer?list=neetcode150
+# Author aw.ahmed.werghi@gmail.com
 
 from typing import List
 

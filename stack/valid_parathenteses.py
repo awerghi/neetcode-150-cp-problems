@@ -1,3 +1,7 @@
+# PROBLEM STATEMENT : https://neetcode.io/problems/validate-parentheses?list=neetcode150
+# Author aw.ahmed.werghi@gmail.com
+
+
 class Solution:
     def isValid(self, s: str) -> bool:
         complement = {"{" : "}","[" : "]", "(" : ")"}
