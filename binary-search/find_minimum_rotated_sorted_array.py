@@ -1,3 +1,6 @@
+# Author ahmed.werghi
+# Email ahmed.werghi@gmail.com
+
 from typing import List
 
 class Solution:
