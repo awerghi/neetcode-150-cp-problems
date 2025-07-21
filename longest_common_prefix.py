@@ -1,3 +1,6 @@
+# Author ahmed.werghi@gmail.com
+# problem statement : https://neetcode.io/problems/binary-search?list=neetcode250
+
 from typing import List
 
 class Solution:
