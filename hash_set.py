@@ -1,3 +1,6 @@
+# Author ahmed.werghi@gmail.com
+# problem statement : https://neetcode.io/problems/design-hashset?list=neetcode250
+
 class MyHashSet:
 
     def __init__(self):
