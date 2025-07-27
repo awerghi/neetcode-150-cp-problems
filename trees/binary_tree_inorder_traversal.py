@@ -1,5 +1,5 @@
 # Author ahmed.werghi@gmail.com
-# problem statement : https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii?list=neetcode250
+# problem statement : https://neetcode.io/problems/binary-tree-inorder-traversal?list=neetcode250
 
 
 from typing import Optional, List
