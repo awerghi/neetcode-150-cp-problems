@@ -1,7 +1,10 @@
-# Definition for a binary tree node.
+# Author ahmed.werghi@gmail.com
+# problem statement : https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii?list=neetcode250
+
+
 from typing import Optional, List
 
-
+# Definition for a binary tree node.
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
