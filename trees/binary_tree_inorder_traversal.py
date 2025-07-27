@@ -31,4 +31,4 @@ n2 = TreeNode(2,n4,n5)
 n3 = TreeNode(3,n6,n7)
 n1 = TreeNode(1,n2,n3)
 
-print(s.inorderTraversal(n1))
+print(s.inorderTraversal(n1)) # output => [1,2,3,4,5,6,7]
