@@ -26,4 +26,4 @@ n4 = TreeNode(4)
 n3 = TreeNode(3,n4)
 n2 = TreeNode(2)
 n1 = TreeNode(1,n2,n3)
-print(s.maxDepth(n1))
+print(s.maxDepth(n1)) # output => 3
