@@ -1,4 +1,4 @@
-# Author ahmed.werghi@gmail.com
+# Author aw.ahmed.werghi@gmail.com
 # problem statement : https://neetcode.io/problems/binary-search?list=neetcode150
 # Solution: time complexity : O(log(n))
 #           space complexity : O(1)

@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode150
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 
 
 # The idea is to solve the problem in O(n) time complexity

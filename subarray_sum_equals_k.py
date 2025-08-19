@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/longest-consecutive-sequence?list=neetcode150
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 # Author comment : a very interesting pb, the complexity is how you can solve it in O(n)
 
 from typing import List

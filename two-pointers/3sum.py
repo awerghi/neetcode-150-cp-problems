@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/three-integer-sum?list=neetcode150
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 
 
 

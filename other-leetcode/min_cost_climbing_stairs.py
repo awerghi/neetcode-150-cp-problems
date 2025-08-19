@@ -1,4 +1,4 @@
-# Author ahmed.werghi@gmail.com
+# Author aw.ahmed.werghi@gmail.com
 # problem statement : https://leetcode.com/problems/min-cost-climbing-stairs/
 
 from typing import List

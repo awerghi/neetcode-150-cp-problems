@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/reverse-a-linked-list?list=neetcode150
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 
 from typing import Optional
 

@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/merge-strings-alternately?list=neetcode250
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 
 
 class Solution:

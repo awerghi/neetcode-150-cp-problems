@@ -1,4 +1,4 @@
-# Author ahmed.werghi@gmail.com
+# Author aw.ahmed.werghi@gmail.com
 # problem statement : https://neetcode.io/problems/sort-an-array?list=neetcode250
 
 

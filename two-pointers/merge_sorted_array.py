@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/merge-sorted-array?list=neetcode250
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 
 class Solution:
     def move_array_by_one(self, nums: List[int], start: int, end: int, elt: int):

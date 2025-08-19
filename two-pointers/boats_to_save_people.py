@@ -1,5 +1,5 @@
 # PROBLEM STATEMENT : https://neetcode.io/problems/boats-to-save-people?list=neetcode250
-# Author aw.ahmed.werghi@gmail.com
+# Author aw.aw.ahmed.werghi@gmail.com
 
 from typing import List
 

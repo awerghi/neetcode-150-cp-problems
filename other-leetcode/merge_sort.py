@@ -1,4 +1,4 @@
-# Author ahmed.werghi@gmail.com
+# Author aw.ahmed.werghi@gmail.com
 
 # My implementation of a merge sort
 

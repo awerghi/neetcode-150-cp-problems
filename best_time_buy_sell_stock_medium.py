@@ -1,4 +1,4 @@
-# Author ahmed.werghi@gmail.com
+# Author aw.ahmed.werghi@gmail.com
 # problem statement : https://neetcode.io/problems/best-time-to-buy-and-sell-stock-ii?list=neetcode250
 
 from typing import List

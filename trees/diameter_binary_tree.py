@@ -1,4 +1,4 @@
-# Author ahmed.werghi@gmail.com
+# Author aw.ahmed.werghi@gmail.com
 # problem statement : https://neetcode.io/problems/binary-tree-diameter?list=neetcode250
 # GOT some hints in order to solve it
 
