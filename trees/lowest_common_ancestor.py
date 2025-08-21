@@ -1,5 +1,5 @@
 # Author aw.ahmed.werghi@gmail.com
-# problem statement : https://neetcode.io/problems/level-order-traversal-of-binary-tree?list=neetcode250
+# problem statement : https://neetcode.io/problems/lowest-common-ancestor-in-binary-search-tree?list=neetcode150
 
 # Definition for a binary tree node.
 class TreeNode:
