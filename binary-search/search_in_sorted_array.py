@@ -1,3 +1,7 @@
+# Author ahmed.werghi
+# Email aw.ahmed.werghi@gmail.com
+# Pb statement : https://neetcode.io/problems/find-target-in-rotated-sorted-array?list=neetcode150
+
 from typing import List
 
 class Solution:
@@ -55,4 +59,4 @@ class Solution:
 
 
 s = Solution()
-print(s.search(nums = [3,5,6,0,1,2], target = 4))
+print(s.search(nums = [3,5,6,0,1,2], target = 4)) # answer : -1
